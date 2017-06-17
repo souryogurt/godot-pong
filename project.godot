@@ -1,7 +1,10 @@
 config_version=3
+config_version=null
+
 [application]
 
 name="pong"
+main_scene="res://pong.tscn"
 icon="res://icon.png"
 
 [display]
